@@ -5,6 +5,7 @@
 👋 Hi! My name is Thammaphum Phupiangjai, I'm 22 years old.  
 🎓 I'm a Computer Science graduate from the Faculty of Computer Science, Khon Kaen University (Class of 2025).  
 💻 I’m passionate about software technology,programming,web development and always eager to explore new and emerging tech.
+
 📚 I'm a quick learner with strong adaptability. I enjoy taking on challenges, working well under pressure, and solving problems in real-time.  
 🧑‍🎓 I’m calm under stress, open to feedback, a good team player, and always ready to contribute ideas. I’m passionate, fast at learning new technologies, and continuously improving myself.
 
