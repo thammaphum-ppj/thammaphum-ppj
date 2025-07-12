@@ -55,4 +55,5 @@
 - Sourcetree  
 - GitHub  
 - DBeaver
-- vs code
+- VS Code
+- Docker
