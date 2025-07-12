@@ -57,3 +57,6 @@
 - DBeaver
 - VS Code
 - Docker
+- Microsoft Word
+- Microsoft Excel
+- Canva
