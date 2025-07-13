@@ -41,7 +41,7 @@
 - Python  
 - C  
 
-### 🗃️ Databases
+### 🗃️ Database
 - MySQL  
 - SQL  
 - OracleDB  
