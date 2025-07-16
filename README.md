@@ -60,3 +60,4 @@
 - Microsoft Word
 - Microsoft Excel
 - Canva
+- Trello
